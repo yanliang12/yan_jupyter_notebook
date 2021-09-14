@@ -9,3 +9,6 @@ docker run -it ^
 yanliang12/yan_jupyter_notebook:1.0.1
 
 ```
+
+localhost:8674
+
