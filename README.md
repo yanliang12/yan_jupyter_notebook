@@ -10,5 +10,4 @@ yanliang12/yan_jupyter_notebook:1.0.1
 
 ```
 
-localhost:8674
-
+http://localhost:8674/tree?
